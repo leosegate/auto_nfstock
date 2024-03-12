@@ -48,4 +48,4 @@ while (i<len(all_xmls)):
     i+=1
 
 print("\nTotal de ctes:", i+1)
-end_program = input("Verificacao concluida. Aperte enter para sair.")
+input("Verificacao concluida. Aperte enter para sair.")
