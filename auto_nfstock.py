@@ -33,7 +33,7 @@ while (i<len(all_xmls)):
     print(cte_number)
     
     #aqui vai o link do nfstock + a variavel cte_number
-    webbrowser.open('https://www.google.com/')
+    webbrowser.open("https://nfstock.alterdata.com.br/Cte/ContratadosFiltro?OrdernarPor=0&MostrarOpcaoFiltroImportacao=True&Modelo=&Serie=&Numero="+cte_number+"&Chave=&StatusManifestacao=-1&Tipo=Tomador&DataDe=&DataAte=")
     time.sleep(5)
     
     #fecha a aba do nfstock sozinho
