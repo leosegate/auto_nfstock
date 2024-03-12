@@ -8,7 +8,7 @@ import webbrowser
 
 keyboard = Controller()
 
-input("Para funcionar logue no nfstock primeiro, depois, pressione ENTER aqui nesta tela.")
+input("Para funcionar, logue no nfstock primeiro e depois pressione ENTER aqui nesta tela.")
 
 #diretorio da pasta onde estao os xml's
 path_of_xmls = input("\n\n\nDigite o diretorio dos cte que deseja verificar: \n")
