@@ -32,7 +32,7 @@ while (i<len(all_xmls)):
     
     print(cte_number)
     
-    #aqui vai o link do nfstock + a variavel cte number
+    #aqui vai o link do nfstock + a variavel cte_number
     webbrowser.open('https://www.google.com/')
     time.sleep(5)
     
