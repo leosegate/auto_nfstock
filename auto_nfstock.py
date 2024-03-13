@@ -12,8 +12,7 @@ def confirm_to_next():
         if keyboard.read_key() == '.':
             time.sleep(0.5)
             break;
-
-
+            
 teclado = Controller()
 
 input("Para funcionar, logue no nfstock primeiro e depois pressione ENTER aqui nesta tela.")
