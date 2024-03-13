@@ -1,7 +1,7 @@
 Automação para verificacao de arquivos no NFSTOCK
 
-Esse aplicativo tem o intuito de facilitar a verficação
-no nfstock de ctes depois de lancados no sistema SAP.
+Esse aplicativo tem o intuito de facilitar a verficação de ctes
+no nfstock depois de lancados no sistema SAP.
 
 Como usar?
 - para funcionar tem que estar logado no nfstock;
