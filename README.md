@@ -7,4 +7,4 @@ Como usar?
 - para funcionar tem que estar logado no nfstock;
 - quando o aplicativo pedir, insira o diretorio dos ctes;
 - para passar para o proximo cte dentro do navegador pressione ".";
-- quando terminar digite enter para fechar o aplicativo;
+- quando terminar aperte enter dentro do aplicativo para fecha-lo;
